@@ -1,4 +1,7 @@
 import math
 
-if __name__ == "__main__":
+def func_01():
+	pass
+
+if __name__ = "__main__":
 	pass
